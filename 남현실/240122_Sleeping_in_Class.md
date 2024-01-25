@@ -1,3 +1,6 @@
+# Sleeping in class 풀이
+
+```java
 import java.util.*;
 import java.io.*;
 
@@ -105,3 +108,4 @@ public class Main {
          */
     }
 }
+```
