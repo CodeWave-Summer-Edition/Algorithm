@@ -1,9 +1,15 @@
 # 알고리즘 스터디 문제 모음
 
+### 2024.02.05 강병선
+
+[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+
 ### 2024.02.02 배이경
+
 [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 
 ### 2024.02.01
+
 [암호코드](https://www.acmicpc.net/problem/2011)
 
 ### 2024.01.29 고재원
