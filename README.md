@@ -1,5 +1,9 @@
 # 알고리즘 스터디 문제 모음
 
+### 2024.02.06 남현실
+
+[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+
 ### 2024.02.05 강병선
 
 [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
