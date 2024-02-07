@@ -1,5 +1,9 @@
 # 알고리즘 스터디 문제 모음
 
+### 2024.02.08 이의찬
+
+[도넛과 막대](https://school.programmers.co.kr/learn/courses/30/lessons/258711)
+
 ### 2024.02.06 남현실
 
 [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
