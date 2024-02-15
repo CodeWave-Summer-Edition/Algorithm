@@ -1,5 +1,8 @@
 # 알고리즘 스터디 문제 모음
 
+### 2024.02.16 김현욱
+[산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)
+
 ### 2024.02.08 이의찬
 
 [도넛과 막대](https://school.programmers.co.kr/learn/courses/30/lessons/258711)
