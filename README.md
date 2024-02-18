@@ -1,5 +1,10 @@
 # 알고리즘 스터디 문제 모음
 
+### 2024.02.19 배이경
+[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651?language=java)
+
+[SQL] [업그레이드 할 수 없는 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273712)
+
 ### 2024.02.16 김현욱
 [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705)
 
