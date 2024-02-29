@@ -1,5 +1,8 @@
 # 알고리즘 스터디 문제 모음
 
+### 2024.02.28 김현욱
+[선분 교차 1](https://www.acmicpc.net/problem/17386)
+
 ### 2024.02.22 오수연
 
 [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)
